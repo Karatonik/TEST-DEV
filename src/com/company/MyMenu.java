@@ -37,7 +37,7 @@ public class MyMenu {
         }
     }
 
-    public static void drawGui() {
+    private static void drawGui() {
         System.out.println("------------------------------------------------");
         System.out.println("To select a task press the NUMBER and then ENTER");
         System.out.println("+-----------------+");

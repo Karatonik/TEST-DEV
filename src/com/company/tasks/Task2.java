@@ -22,7 +22,7 @@ public class Task2 {
         start(sum, Task1.getIntegerList());
     }
 
-    public static void start(int sum, List<Integer> integerList) {
+    private static void start(int sum, List<Integer> integerList) {
 
         //long startTimer = System.currentTimeMillis();
 
